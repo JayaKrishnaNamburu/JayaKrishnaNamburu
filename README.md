@@ -2,7 +2,7 @@
 
 I'm a software engineer who enjoys working **where product, frontend and developer infrastructure meet**.
 
-I've spent 9+ years working on **SaaS, no-code/low-code platforms, browser-based tools, code generation and JavaScript infrastructure**.
+I've been working across **SaaS, no-code/low-code platforms, browser-based tools, code generation and JavaScript infrastructure**.
 
 A lot of my work has been around:
 
